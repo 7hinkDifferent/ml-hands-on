@@ -102,3 +102,31 @@ sudo chown $USER:$USER filename
 - GitHub Issues: 提交问题和建议
 - 文档: README.md中的详细说明
 - 官方文档: 各个库的官方文档链接
+
+## 🌟 精选学习资源
+
+### 📚 必读教程
+- [**Andrew Ng机器学习课程**](https://www.coursera.org/learn/machine-learning) - 最经典的ML入门课程
+- [**PyTorch官方教程**](https://pytorch.org/tutorials/) - 深度学习必备
+- [**Scikit-learn用户指南**](https://scikit-learn.org/stable/user_guide.html) - 机器学习实践
+- [**Python数据科学手册**](https://jakevdp.github.io/PythonDataScienceHandbook/) - 免费在线版本
+
+### 🎯 实践平台
+- [**Kaggle**](https://www.kaggle.com/) - 数据科学竞赛和数据集
+- [**Google Colab**](https://colab.research.google.com/) - 免费GPU云端环境
+- [**Papers with Code**](https://paperswithcode.com/) - 论文+代码实现
+- [**GitHub**](https://github.com/) - 开源项目和代码托管
+
+### 🇨🇳 中文资源
+- [**李宏毅机器学习课程**](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) - 台大中文ML课程
+- [**动手学深度学习**](https://d2l.ai/) - 李沐等著，有中文版
+- [**机器学习实战**](https://github.com/apachecn/MachineLearning) - ApacheCN中文教程
+- [**知乎机器学习专栏**](https://www.zhihu.com/topic/19559450) - 中文技术讨论
+
+### 📱 随时学习
+- [**Towards Data Science**](https://towardsdatascience.com/) - Medium技术文章
+- [**Machine Learning Mastery**](https://machinelearningmastery.com/) - 实战教程博客
+- [**KDnuggets**](https://www.kdnuggets.com/) - 数据科学资讯
+- [**AI研习社**](https://www.yanxishe.com/) - 中文AI学习社区
+
+💡 **学习建议**: 理论学习与实践并重，多动手编码，参与开源项目！
