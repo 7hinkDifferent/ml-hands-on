@@ -1,0 +1,30 @@
+# 基础数据科学包
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# 机器学习
+scikit-learn>=1.0.0
+
+# 深度学习
+torch>=1.9.0
+torchvision>=0.10.0
+tensorboard>=2.7.0
+
+# Jupyter相关
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# 数据处理和可视化辅助
+tqdm>=4.62.0
+pillow>=8.3.0
+
+# 服务器和系统监控
+psutil>=5.8.0
+requests>=2.26.0
+
+# 可选：GPU支持（取消注释如果需要CUDA支持）
+# torch>=1.9.0+cu111
+# torchvision>=0.10.0+cu111
